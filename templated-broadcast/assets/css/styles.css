@@ -1,0 +1,15 @@
+.subList{
+	list-style: none;
+}
+
+#login div{
+	padding-left: 15px;
+}
+
+#login p{
+	margin: 0;
+}
+
+#login span {
+	height: 2em;
+}
